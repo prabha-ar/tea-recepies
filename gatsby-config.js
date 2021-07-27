@@ -3,7 +3,7 @@ module.exports = {
         title: "Quarkly gatsby project",
         description: "",
         author: "@prabha",
-        siteUrl: "https://example.com"
+        siteUrl: "https://admiring-feynman-5e78dd.netlify.app"
     },
     plugins: [
         "gatsby-plugin-react-helmet",

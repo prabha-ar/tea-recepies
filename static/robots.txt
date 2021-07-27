@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap-index.xml
+Sitemap: https://admiring-feynman-5e78dd.netlify.app/sitemap-index.xml

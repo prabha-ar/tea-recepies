@@ -10,7 +10,6 @@ const overrides = {};
 
 const Custstories = props => {
 	const {
-		overrides,
 		rest
 	} = useOverrides(props, overrides, defaultProps);
 	const [Story, setStory] = useState([]);
